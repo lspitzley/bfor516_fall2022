@@ -1,2 +1,2 @@
-# bfor516_fall2022
+# BFOR 516 - Advanced Data Analytics
 Code and data for BFOR 516 Fall 2022
